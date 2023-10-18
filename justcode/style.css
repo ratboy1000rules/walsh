@@ -1,0 +1,117 @@
+#conta{
+    color: white;
+    font-size:  30px;
+    text-decoration: none;
+}
+#contact{
+    margin-left: 1203px;
+    margin-top: -32px;
+}
+#conta:hover{
+    color: #00ceff;
+    text-decoration: underline;
+    cursor: pointer;
+}
+#servi{
+    color: white;
+    font-size:  30px;
+    text-decoration: none;
+}
+#walsh{
+    margin-top: 100px
+}
+#services{
+    margin-left: 1041px;
+    margin-top: -35px;
+}
+#servi:hover{
+    color: #00ceff;
+    text-decoration: underline;
+    cursor: pointer;
+}
+#homa{
+    color: white;
+    font-size:  30px;
+    text-decoration: none;
+}
+#home{
+    margin-left: 900px;
+    margin-top: -67px;
+}
+#homa:hover{
+    color: #00ceff;
+    text-decoration: underline;
+    cursor: pointer;
+}
+#nav{
+    width: 1442px;
+    height: 100px;
+    background-color: black;
+    margin-left: -10px;
+    margin-top: -10px
+}
+::-webkit-scrollbar{
+    opacity: 0%;
+}
+#we{
+    font-size: 30px;
+    margin-left: 486px;
+    margin-top: 20px;
+
+}
+#fixer{
+    margin-left: 85px
+}
+#boss{
+    height: 557px;
+    width: 726px;
+    background-color: darkgrey;
+    margin-left: 346px;
+    margin-top: -547px;
+  }
+
+#goback{
+    font-size: 1.5rem;
+    border: 3px solid black;
+    margin-right: auto;
+    border-radius: 8rem;
+    background-color: black;
+    width: 289px;
+    color: white;
+    cursor: pointer;
+    margin-left: 561px;
+    height: 57px;
+    margin-top: 10px;
+}
+#txts{
+    font-size: 30px;
+    margin-left: 18px;
+    color: whitesmoke;
+    margin-top: -20px
+}
+#boxy{
+    height: 69px;
+    width: 230px;
+    background-color: black;
+    margin-top: -601px;
+    margin-left: 345px;
+}
+#wed{
+    font-size: 32px;
+    margin-left: 525px;
+    margin-top: 10px;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+#cool-map{
+    margin-top: 93px;
+    margin-left: 410px;
+}
+#funi{
+    font-size: 22px;
+    align-items: end;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+    margin-top:-69px
+}
